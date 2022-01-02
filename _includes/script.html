@@ -1,0 +1,7 @@
+<script>
+    let files = [
+    {% assign imgcount = 0 %}{% for image in site.static_files %}{% if image.extname == '.md' and image.path contains 'recipes' %}{% assign imgcount = imgcount | plus: 1 %}{% endif %}{% endfor %}
+    {% assign loopcounter = 0 %}
+    {% for image in site.static_files %}{% if image.extname == '.md' and image.path contains 'recipes' %}{% assign loopcounter = loopcounter | plus: 1 %}{% assign filename = image.path | split: '/' | last %}{% if loopcounter == imgcount %}"{{ filename }}"{% else %}"{{ filename }}",{% endif %}{% endif %}{% endfor %}    
+];    
+</script>        
