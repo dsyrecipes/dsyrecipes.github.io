@@ -1,8 +1,8 @@
 # New York Cheesecake 
 
 ## info  
-* About 10 minutes  
-* 5 crapes
+* Cook on high for 28 min
+* Slow release for 10 min
 
 ## ingredients
 Crust
