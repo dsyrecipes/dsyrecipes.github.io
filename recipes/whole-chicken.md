@@ -1,4 +1,4 @@
-# Whole Chicken 
+# Whole Chicken (Instant Pot)
 
 ## info  
 * 40 minutes  
