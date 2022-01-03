@@ -1,11 +1,12 @@
 # Chicken Breast  
 
 ## info  
-* 20 minutes at 375°f (Air Fryer)
+* 22 minutes at 375°f (Air Fryer)
 * 5
 
 ## ingredients
 * 4 chicken breast
+* 1 Tbsp avocado oil
 * 2 Tbsp of soya sauce
 * 2 Tbsp of oyster sauce
 * 1/4 tsp of sea salt
