@@ -14,7 +14,7 @@
 * 1 1/3 cups mashed ripe bananas (3-4 medium)
 * 1 teaspoon milk
 * 1 teaspoon vanilla extract
-* 1/2 cup chopped nuts
+* 1/2 cup chopped nuts (optional)
 
 ## steps  
 1.  Preheat oven to 350°f
