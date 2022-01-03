@@ -12,8 +12,9 @@
 ## steps  
 1.  Blend strawberries and 1/4 orange joice until smooth
 2.  Add mango chunks and the remaining 3/4 cup orange juice
-3.  Pour moulds
-4.  Place in freezer for 4 hours
+3.  Mix slightly
+4.  Pour moulds
+5.  Place in freezer for 4 hours
 
 ## notes  
 * 
