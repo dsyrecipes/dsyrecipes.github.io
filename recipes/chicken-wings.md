@@ -12,7 +12,7 @@
 * 1/4 tsp of pepper
 * 4 cloves of garlic
 * ginger (same amount as garlic)
-* 1/4 tsp Montreal chicken mix
+* 1/4 tsp Clubhouse Montreal chicken mix
 
 ## steps  
 1.  Add all the ingredients to the chicken wings in a mixing bowl
