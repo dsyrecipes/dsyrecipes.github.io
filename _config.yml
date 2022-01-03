@@ -1,5 +1,5 @@
 # Site settings
-title: DsyRecipes
+title: Dsy Recipes
 email: 
 url: https://dsyrecipes.github.io
 description: ""
@@ -11,7 +11,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: DsyRecipes
+footer: Dsy Recipes
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #social:
