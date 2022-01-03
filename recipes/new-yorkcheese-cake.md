@@ -34,6 +34,16 @@ Make crust
 4. Have the crust come up on the edges. 
 5. Put in freezer.
 
+1. Then take 2 eggs, beat them and then put them in the bowl.
+2. Mix it up.
+3. Take crust out of freezer. 
+4. Pour cheesecake batter over crust.
+5. Add one cup of water into Instant Pot.
+6. Put lid on. Lock it.
+7. Put cheesecake on the trivet and lower into Instant Pot. Hit Pressure cook.
+8. Normal High Pressure. 28 minutes.
+9. Let it rest for 10 minutes. Do not break the seal.
+
 ## notes  
 * Mynotes  
 
