@@ -16,7 +16,8 @@ Filling
 * 2 Tbsp corn starch
 * 1/4 tsp salt
 * 2 tsp vanilla extract
-* 1/2 cup sour cream, 2eggs
+* 1/2 cup sour cream, 
+* 2 eggs
 
 Topping
 * 1/2 cup sour cream
