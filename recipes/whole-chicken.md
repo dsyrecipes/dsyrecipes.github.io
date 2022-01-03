@@ -1,7 +1,7 @@
 # Whole Chicken (Instant Pot)
 
 ## info  
-* 40 minutes  
+* Cook on high for 25 min, slow release for 15 min (Instant Pot)
 * Family of 5 
 
 ## ingredients

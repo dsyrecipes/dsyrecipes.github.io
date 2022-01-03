@@ -1,7 +1,7 @@
-# New York Cheesecake (Instant Pot)
+# New York Cheesecake 
 
 ## info  
-* Cook on high for 28 min, slow release for 10 min
+* Cook on high for 28 min, slow release for 10 min (Instant Pot)
 * 5 slices
 ## ingredients
 Crust
