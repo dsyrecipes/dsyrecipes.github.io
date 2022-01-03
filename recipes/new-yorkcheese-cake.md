@@ -2,7 +2,7 @@
 
 ## info  
 * Cook on high for 28 min, slow release for 10 min
-* 5
+* 5 slices
 ## ingredients
 Crust
 * 1 pkg (9) grahm crackers
