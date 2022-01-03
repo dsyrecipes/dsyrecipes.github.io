@@ -2,7 +2,7 @@
 
 ## info  
 * About 10 minutes  
-* 5 crapes
+* 5 crepes
 
 ## ingredients
 * 1 cup flour
