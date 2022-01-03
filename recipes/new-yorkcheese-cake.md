@@ -50,7 +50,7 @@ Topping
 
 
 ## notes  
-* Using Instant Pot
+* Use Instant Pot
 
 ## based on  
 * https://youtu.be/2qwhQZqbVn0
