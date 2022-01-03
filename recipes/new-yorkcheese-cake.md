@@ -26,31 +26,27 @@ Topping
 ## steps  
 1. Remove bottom of pan and wrap parchment paper around bottom & place it back in pan. 
 2. Spray pan with Pam or olive oil or butter.
-
-Make crust
-1. whisk together crust ingredients
-2. Put graham cracker mix into cheesecake pan.
-3. Press it with a drinking glass. 
-4. Have the crust come up on the edges. 
-5. Put in freezer.
-Make cheesecake
-1. Then take 2 eggs, beat them and then put them in the bowl.
-2. Mix it up.
-3. Take crust out of freezer. 
-4. Pour cheesecake batter over crust.
-5. Add one cup of water into Instant Pot.
-6. Put lid on. Lock it.
-7. Put cheesecake on the trivet and lower into Instant Pot. Hit Pressure cook.
-8. Normal High Pressure. 28 minutes.
-9. Let it rest for 10 minutes. Do not break the seal.
-10. After 10 minutes, break the seal. Take lid off.
-11. Take cheesecake out of Instant Pot.
-12. Take a paper towel and blot it. There is no need to cover the cheesecake with foil.
-13. Put in fridge.
-Make topping
-1. Whisk together
-2. Pour over cheesecake.
-3. Put in refrigerator for 4 hrs (good), 8 hrs (better), overnight (best).
+3. whisk together crust ingredients
+4. Put graham cracker mix into cheesecake pan.
+5. Press it with a drinking glass. 
+6. Have the crust come up on the edges. 
+7. Put in freezer.
+8. Then take 2 eggs, beat them and then put them in the bowl.
+9. Mix it up.
+10. Take crust out of freezer. 
+11. Pour cheesecake batter over crust.
+12. Add one cup of water into Instant Pot.
+13. Put lid on. Lock it.
+14. Put cheesecake on the trivet and lower into Instant Pot. Hit Pressure cook.
+15. Normal High Pressure. 28 minutes.
+16. Let it rest for 10 minutes. Do not break the seal.
+17. After 10 minutes, break the seal. Take lid off.
+18. Take cheesecake out of Instant Pot.
+19. Take a paper towel and blot it. There is no need to cover the cheesecake with foil.
+20. Put in fridge.
+21. Whisk together
+22. Pour over cheesecake.
+23. Put in refrigerator for 4 hrs (good), 8 hrs (better), overnight (best).
 
 
 ## notes  
