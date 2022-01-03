@@ -32,7 +32,7 @@ Topping
 6. Have the crust come up on the edges. 
 7. Put in freezer.
 8. Then take 2 eggs, beat them and then put them in the bowl.
-9. Mix it up.
+9. Whisk filling ingredients
 10. Take crust out of freezer. 
 11. Pour cheesecake batter over crust.
 12. Add one cup of water into Instant Pot.
@@ -44,7 +44,7 @@ Topping
 18. Take cheesecake out of Instant Pot.
 19. Take a paper towel and blot it. There is no need to cover the cheesecake with foil.
 20. Put in fridge.
-21. Whisk together
+21. Whisk together topping ingredients
 22. Pour over cheesecake.
 23. Put in refrigerator for 4 hrs (good), 8 hrs (better), overnight (best).
 
