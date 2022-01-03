@@ -25,9 +25,9 @@
 5.  Then flip the butternut squash over so the cut side is down and roast for 60 minutes.
 6.  At the 30 minute point, coat the cut half of the onion with avocado oil and place it cut side down on the baking tray. 
 7.  Continue cooking for another 30 minutes, then remove from the oven.
-8.  One the butternut squash is cool enough to handle, use a large spoon to scoop out the flesh and transfer to a blender. 
+8.  Once the butternut squash is cool enough to handle, use a large spoon to scoop out the flesh and transfer to a blender. 
 9.  Remove the outer layer of the onion and add it to the blender along with the garlic, maple syrup, salt, nutmeg, ginger, butter and vegetable broth. Start with 3 cups of vegetable broth and add more to achieve your desired consistency. 
-10. Blend on high for several minutes or until creamy. If using a Vitamix, you can use the soup setting to achieve a creamy and hot soup. Taste the soup and add more salt and pepper if needed.
+10. Blend on high for several minutes or until creamy. Taste the soup and add more salt and pepper if needed.
 11.  Pour the soup into bowls and garnish with pepitas, parsley and cracked black pepper.  
 
 ## notes  
