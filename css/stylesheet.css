@@ -46,6 +46,7 @@ h1 {
 }
 #mainTitle {
   text-align: center;
+   text-transform: capitalize;
 }
 
 /* section headers */
