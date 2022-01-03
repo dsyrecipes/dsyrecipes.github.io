@@ -18,8 +18,8 @@
 4.  Fry 1 minute on each side
 
 ## notes  
-* Mynotes  
+* 
 
 ## based on  
-* Ref
+* 
 
