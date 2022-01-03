@@ -7,13 +7,13 @@
 Crust
 * 1 pkg (9) grahm crackers
 * 1/4 tsp salt
-* 4 Tbsp melted butter
+* 4 tbsp melted butter
 * 2 tsp brown sugar
 
 Filling
 * 16 oz cream cheese
 * 2/3 cup sugar
-* 2 Tbsp corn starch
+* 2 tbsp corn starch
 * 1/4 tsp salt
 * 2 tsp vanilla extract
 * 1/2 cup sour cream, 
@@ -21,7 +21,7 @@ Filling
 
 Topping
 * 1/2 cup sour cream
-* 2 Tbsp sugar
+* 2 tbsp sugar
 
 ## steps  
 1. Remove bottom of pan and wrap parchment paper around bottom & place it back in pan. 
