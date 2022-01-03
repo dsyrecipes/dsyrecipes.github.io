@@ -23,10 +23,15 @@ Topping
 * 2 Tbsp sugar
 
 ## steps  
-1.  Mix ingredients in mixing bowl
-2.  Add oil in pan
-3.  Pour batter in pan and make flat
-4.  Fry 1 minute on each side
+1. Remove bottom of pan and wrap parchment paper around bottom & place it back in pan. 
+2. Spray pan with Pam or olive oil or butter.
+
+Make crust
+1. whisk together crust ingredients
+2. Put graham cracker mix into cheesecake pan.
+3. Press it with a drinking glass. 
+4. Have the crust come up on the edges. 
+5. Put in freezer.
 
 ## notes  
 * Mynotes  
